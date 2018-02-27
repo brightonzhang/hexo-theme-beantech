@@ -1,3 +1,8 @@
+> I could be bounded in a nutshell and count myself a king of infinite space.
+> --William Shakespeare, Hamlet, Act 2, Scene 2
+
+That's why the theme is called nutshell.
+
 > Ported Theme of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
 > 
 > This BeanTech theme created by [YuHsuan](http://beantech.org) modified from the original Porter [Kaijun](http://kaijun.rocks/hexo-theme-huxblog/)
@@ -12,8 +17,8 @@ Let's begin!!!
 
 ## Init
 ```bash
-git clone https://github.com/YenYuHsuan/hexo-theme-beantech.git ./hexo-beantech
-cd hexo-beantech
+git clone https://github.com/brightonzhang/hexo-theme-nutshell.git ./hexo-theme-nutshell
+cd hexo-theme-nutshell
 npm install
 ```
 
@@ -104,5 +109,5 @@ hexo deploy # hexo will push the static files automatically into the specific br
 
 # Have fun ^_^ 
 
-Please [Star](https://github.com/YenYuHsuan/hexo-theme-beantech) this Project if you like it! [Follow](https://github.com/YenYuHsuan) would also be appreciated!
+Please [Star](https://github.com/brightonzhang/hexo-theme-nutshell) this Project if you like it! [Follow](https://github.com/brightonzhang) would also be appreciated!
 Peace!
