@@ -2,7 +2,7 @@ title: Test
 catalog: true
 date: 2015-06-28 16:27:30
 subtitle: "Just for testing."
-header-img: "quick-brown-fox.jpg"
+header-img: "/img/2015/quick-brown-fox.jpg"
 tags:
 ---
 
