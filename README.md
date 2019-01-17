@@ -1,4 +1,5 @@
 > I could be bounded in a nutshell and count myself a king of infinite space.
+
 > --William Shakespeare, Hamlet, Act 2, Scene 2
 
 That's why the theme is called nutshell.
@@ -109,7 +110,9 @@ hexo deploy # hexo will push the static files automatically into the specific br
 
 # Known issues
 1. [Content's link in sidebar show 'undefine'](https://github.com/YenYuHsuan/hexo-theme-beantech/issues/11)
+
 How to avoid provisionally:
+
 modify the file node_modules/hexo-toc/lib/filter.js Line 28 - 31：
 ```javascript
 $title.attr('id', id);
@@ -120,7 +123,9 @@ $title.attr('id', id);
 
 2. 
 (node:10022) [DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.
+
 This is caused by debug@2.6.9:
+
 node_modules//debug/src/node.js:187:      stream = new fs.SyncWriteStream(fd, { autoClose: false });
 
 # Have fun ^_^ 
