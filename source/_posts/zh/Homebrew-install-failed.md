@@ -1,6 +1,6 @@
 title: Homebrew安装失败
 date: 2015-11-30 00:37:21
-tags:
+tags: 
 ---
 
 按照 http://brew.sh/index.html 安装Homebrew 执行如下命令：

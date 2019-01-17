@@ -1,6 +1,6 @@
 title: Ubuntu on Windows 初体验
 date: 2016-08-14 14:18:26
-tags:
+tags: 
 ---
 
 在build 2016开发者大会上，微软发布了Bash on Ubuntu on Windows。在windows上运行原生bash，听起来还是很有吸引力了。终于可以抛弃那个鸡肋的cmd，还有那个很多人都不知道PowerShell了。

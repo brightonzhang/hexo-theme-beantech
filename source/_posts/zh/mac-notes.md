@@ -1,6 +1,6 @@
 title: MAC使用笔记
 date: 2016-06-10 15:05:07
-tags:
+tags: 
 ---
 
 # 启动root用户
