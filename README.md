@@ -1,8 +1,4 @@
-> I could be bounded in a nutshell and count myself a king of infinite space.
 
-> --William Shakespeare, Hamlet, Act 2, Scene 2
-
-That's why the theme is called nutshell.
 
 > Ported Theme of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
 > 
